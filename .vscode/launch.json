@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileTest",
+            "request": "launch",
+            "mainClass": "FileTest",
+            "projectName": "probN"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Poem",
+            "request": "launch",
+            "mainClass": "poet.Poem",
+            "projectName": "probN"
+        }
+    ]
+}
